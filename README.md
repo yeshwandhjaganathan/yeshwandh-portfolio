@@ -51,15 +51,7 @@ cd your-portfolio-repo
 
 Double-click the file, or
 
-Use a local development server (e.g., Live Server extension in VS Code).
-
-
-
-
-
----
-
-📸 Screenshots
+Use a local development server (e.g., Live Server extension in VS Code 
 
  
 
@@ -85,8 +77,8 @@ Resume: Add your updated resume PDF and adjust the download link
 ✉️ Contact
 
 Yeshwandh J S
-📧 Email: your-email@example.com
-🌐 LinkedIn: Your LinkedIn
+📧 Email: yeshwandhjaganathan.com
+🌐 LinkedIn: [yeshwandhjs-linkdin](https://www.linkedin.com/in/yeshwandh-j-s-a1297b352?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 📄 Download Resume
 
 
